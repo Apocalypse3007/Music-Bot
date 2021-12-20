@@ -1,2 +1,2 @@
 # Music-Bot
-Music bot to run use discord
+music bot for discord
